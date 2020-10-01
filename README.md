@@ -1,5 +1,6 @@
 # Programming Talks
 
+Something new is here
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
 As I consider all GitHubbers my friends (oh yeah!), I decided it's time to share the
 list.
